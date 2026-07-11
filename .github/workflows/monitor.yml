@@ -1,0 +1,46 @@
+name: MLB Delay Monitor
+
+# This tells GitHub: "run this automatically on a repeating schedule"
+# instead of only when a person clicks a button.
+on:
+  schedule:
+    # Runs every 10 minutes, around the clock. GitHub schedules are
+    # always in UTC time, so this isn't tied to any specific US time zone
+    # -- it just checks often enough to catch delays quickly all day.
+    - cron: "*/10 * * * *"
+  # This lets you also trigger it manually from the GitHub website,
+  # which is the easiest way to test that everything works.
+  workflow_dispatch: {}
+
+# This gives the automated run permission to save its "memory" file
+# back into the repository (see note in the walkthrough).
+permissions:
+  contents: write
+
+jobs:
+  check-delays:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install requirements
+        run: pip install requests
+
+      - name: Run the delay check
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python3 mlb_delay_monitor.py
+
+      - name: Save updated memory file back to the repository
+        run: |
+          git config user.name "mlb-delay-monitor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add delay_monitor_state.json
+          git diff --quiet --cached || git commit -m "Update delay monitor state"
+          git push
