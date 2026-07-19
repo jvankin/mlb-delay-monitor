@@ -300,9 +300,9 @@
     "last_checked": "2026-07-18T23:35:55.221608"
   },
   "823523": {
-    "detailedState": "Pre-Game",
+    "detailedState": "In Progress",
     "matchup": "Los Angeles Dodgers @ New York Yankees",
-    "last_checked": "2026-07-19T14:43:43.774682"
+    "last_checked": "2026-07-19T18:06:19.380121"
   },
   "824979": {
     "detailedState": "Pre-Game",
@@ -315,78 +315,78 @@
     "last_checked": "2026-07-18T23:35:55.221613"
   },
   "822786": {
-    "detailedState": "Pre-Game",
+    "detailedState": "In Progress",
     "matchup": "Chicago White Sox @ Toronto Blue Jays",
-    "last_checked": "2026-07-19T14:43:43.774671"
+    "last_checked": "2026-07-19T18:06:19.380108"
   },
   "823521": {
     "detailedState": "Scheduled",
     "matchup": "Los Angeles Dodgers @ New York Yankees",
-    "last_checked": "2026-07-19T14:43:43.774687"
+    "last_checked": "2026-07-19T18:06:19.380125"
   },
   "824739": {
-    "detailedState": "Pre-Game",
+    "detailedState": "In Progress",
     "matchup": "Tampa Bay Rays @ Boston Red Sox",
-    "last_checked": "2026-07-19T14:43:43.774690"
+    "last_checked": "2026-07-19T18:06:19.380128"
   },
   "823439": {
-    "detailedState": "Pre-Game",
+    "detailedState": "In Progress",
     "matchup": "New York Mets @ Philadelphia Phillies",
-    "last_checked": "2026-07-19T14:43:43.774693"
+    "last_checked": "2026-07-19T18:06:19.380131"
   },
   "824897": {
-    "detailedState": "Pre-Game",
+    "detailedState": "In Progress",
     "matchup": "Texas Rangers @ Atlanta Braves",
-    "last_checked": "2026-07-19T14:43:43.774696"
+    "last_checked": "2026-07-19T18:06:19.380134"
   },
   "824411": {
-    "detailedState": "Pre-Game",
+    "detailedState": "In Progress",
     "matchup": "Pittsburgh Pirates @ Cleveland Guardians",
-    "last_checked": "2026-07-19T14:43:43.774698"
+    "last_checked": "2026-07-19T18:06:19.380137"
   },
   "824168": {
-    "detailedState": "Scheduled",
+    "detailedState": "Warmup",
     "matchup": "Baltimore Orioles @ Houston Astros",
-    "last_checked": "2026-07-19T14:43:43.774705"
+    "last_checked": "2026-07-19T18:06:19.380144"
   },
   "824086": {
-    "detailedState": "Scheduled",
+    "detailedState": "Warmup",
     "matchup": "San Diego Padres @ Kansas City Royals",
-    "last_checked": "2026-07-19T14:43:43.774709"
+    "last_checked": "2026-07-19T18:06:19.380148"
   },
   "823764": {
-    "detailedState": "Scheduled",
+    "detailedState": "Warmup",
     "matchup": "Miami Marlins @ Milwaukee Brewers",
-    "last_checked": "2026-07-19T14:43:43.774712"
+    "last_checked": "2026-07-19T18:06:19.380151"
   },
   "824653": {
-    "detailedState": "Scheduled",
+    "detailedState": "Warmup",
     "matchup": "Minnesota Twins @ Chicago Cubs",
-    "last_checked": "2026-07-19T14:43:43.774715"
+    "last_checked": "2026-07-19T18:06:19.380154"
   },
   "824330": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Cincinnati Reds @ Colorado Rockies",
-    "last_checked": "2026-07-19T14:43:43.774718"
+    "last_checked": "2026-07-19T18:06:19.380156"
   },
   "824978": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Washington Nationals @ Athletics",
-    "last_checked": "2026-07-19T14:43:43.774745"
+    "last_checked": "2026-07-19T18:06:19.380159"
   },
   "824007": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Detroit Tigers @ Los Angeles Angels",
-    "last_checked": "2026-07-19T14:43:43.774748"
+    "last_checked": "2026-07-19T18:06:19.380162"
   },
   "823113": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "San Francisco Giants @ Seattle Mariners",
-    "last_checked": "2026-07-19T14:43:43.774751"
+    "last_checked": "2026-07-19T18:06:19.380164"
   },
   "825057": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "St. Louis Cardinals @ Arizona Diamondbacks",
-    "last_checked": "2026-07-19T14:43:43.774753"
+    "last_checked": "2026-07-19T18:06:19.380166"
   }
 }
