@@ -863,5 +863,65 @@
     "detailedState": "In Progress",
     "matchup": "New York Yankees @ Philadelphia Phillies",
     "last_checked": "2026-07-26T23:33:00.006303"
+  },
+  "822868": {
+    "detailedState": "Scheduled",
+    "matchup": "Seattle Mariners @ Texas Rangers",
+    "last_checked": "2026-07-27T11:59:55.812202"
+  },
+  "824245": {
+    "detailedState": "Scheduled",
+    "matchup": "Baltimore Orioles @ Detroit Tigers",
+    "last_checked": "2026-07-27T11:59:55.812214"
+  },
+  "823353": {
+    "detailedState": "Scheduled",
+    "matchup": "Arizona Diamondbacks @ Pittsburgh Pirates",
+    "last_checked": "2026-07-27T11:59:55.812218"
+  },
+  "823839": {
+    "detailedState": "Scheduled",
+    "matchup": "Philadelphia Phillies @ Miami Marlins",
+    "last_checked": "2026-07-27T11:59:55.812222"
+  },
+  "822705": {
+    "detailedState": "Scheduled",
+    "matchup": "Toronto Blue Jays @ Washington Nationals",
+    "last_checked": "2026-07-27T11:59:55.812225"
+  },
+  "824490": {
+    "detailedState": "Scheduled",
+    "matchup": "Cleveland Guardians @ Cincinnati Reds",
+    "last_checked": "2026-07-27T11:59:55.812229"
+  },
+  "823597": {
+    "detailedState": "Scheduled",
+    "matchup": "Atlanta Braves @ New York Mets",
+    "last_checked": "2026-07-27T11:59:55.812232"
+  },
+  "824570": {
+    "detailedState": "Scheduled",
+    "matchup": "New York Yankees @ Chicago White Sox",
+    "last_checked": "2026-07-27T11:59:55.812240"
+  },
+  "823025": {
+    "detailedState": "Scheduled",
+    "matchup": "Chicago Cubs @ St. Louis Cardinals",
+    "last_checked": "2026-07-27T11:59:55.812244"
+  },
+  "824001": {
+    "detailedState": "Scheduled",
+    "matchup": "Houston Astros @ Los Angeles Angels",
+    "last_checked": "2026-07-27T11:59:55.812247"
+  },
+  "824977": {
+    "detailedState": "Scheduled",
+    "matchup": "Boston Red Sox @ Athletics",
+    "last_checked": "2026-07-27T11:59:55.812250"
+  },
+  "823195": {
+    "detailedState": "Scheduled",
+    "matchup": "Milwaukee Brewers @ San Francisco Giants",
+    "last_checked": "2026-07-27T11:59:55.812252"
   }
 }
