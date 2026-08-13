@@ -2020,48 +2020,48 @@
     "last_checked": "2026-08-12T23:29:19.216786"
   },
   "824238": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Cleveland Guardians @ Detroit Tigers",
-    "last_checked": "2026-08-13T13:57:49.465768"
+    "last_checked": "2026-08-13T14:53:23.479530"
   },
   "823829": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Pittsburgh Pirates @ Miami Marlins",
-    "last_checked": "2026-08-13T13:57:49.465781"
+    "last_checked": "2026-08-13T14:53:23.479540"
   },
   "823508": {
     "detailedState": "Scheduled",
     "matchup": "Seattle Mariners @ New York Yankees",
-    "last_checked": "2026-08-13T13:57:49.465785"
+    "last_checked": "2026-08-13T14:53:23.479544"
   },
   "824561": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Cincinnati Reds @ Chicago White Sox",
-    "last_checked": "2026-08-13T13:57:49.465788"
+    "last_checked": "2026-08-13T14:53:23.479547"
   },
   "822776": {
     "detailedState": "Scheduled",
     "matchup": "Boston Red Sox @ Toronto Blue Jays",
-    "last_checked": "2026-08-13T13:57:49.465791"
+    "last_checked": "2026-08-13T14:53:23.479550"
   },
   "822696": {
     "detailedState": "Scheduled",
     "matchup": "Chicago Cubs @ Washington Nationals",
-    "last_checked": "2026-08-13T13:57:49.465793"
+    "last_checked": "2026-08-13T14:53:23.479553"
   },
   "823669": {
     "detailedState": "Scheduled",
     "matchup": "Philadelphia Phillies @ Minnesota Twins",
-    "last_checked": "2026-08-13T13:57:49.465796"
+    "last_checked": "2026-08-13T14:53:23.479556"
   },
   "823995": {
     "detailedState": "Scheduled",
     "matchup": "Texas Rangers @ Los Angeles Angels",
-    "last_checked": "2026-08-13T13:57:49.465803"
+    "last_checked": "2026-08-13T14:53:23.479563"
   },
   "823915": {
     "detailedState": "Scheduled",
     "matchup": "Milwaukee Brewers @ Los Angeles Dodgers",
-    "last_checked": "2026-08-13T13:57:49.465806"
+    "last_checked": "2026-08-13T14:53:23.479567"
   }
 }
