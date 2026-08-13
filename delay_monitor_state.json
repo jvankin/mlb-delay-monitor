@@ -2020,48 +2020,48 @@
     "last_checked": "2026-08-12T23:29:19.216786"
   },
   "824238": {
-    "detailedState": "Game Over",
+    "detailedState": "Final",
     "matchup": "Cleveland Guardians @ Detroit Tigers",
-    "last_checked": "2026-08-13T19:38:51.761905"
+    "last_checked": "2026-08-13T20:17:09.032775"
   },
   "823829": {
-    "detailedState": "Game Over",
+    "detailedState": "Final",
     "matchup": "Pittsburgh Pirates @ Miami Marlins",
-    "last_checked": "2026-08-13T19:38:51.761921"
+    "last_checked": "2026-08-13T20:17:09.032789"
   },
   "823508": {
     "detailedState": "In Progress",
     "matchup": "Seattle Mariners @ New York Yankees",
-    "last_checked": "2026-08-13T19:38:51.761924"
+    "last_checked": "2026-08-13T20:17:09.032793"
   },
   "824561": {
     "detailedState": "In Progress",
     "matchup": "Cincinnati Reds @ Chicago White Sox",
-    "last_checked": "2026-08-13T19:38:51.761916"
+    "last_checked": "2026-08-13T20:17:09.032785"
   },
   "822776": {
     "detailedState": "In Progress",
     "matchup": "Boston Red Sox @ Toronto Blue Jays",
-    "last_checked": "2026-08-13T19:38:51.761927"
+    "last_checked": "2026-08-13T20:17:09.032796"
   },
   "822696": {
-    "detailedState": "Pre-Game",
+    "detailedState": "In Progress",
     "matchup": "Chicago Cubs @ Washington Nationals",
-    "last_checked": "2026-08-13T19:38:51.761930"
+    "last_checked": "2026-08-13T20:17:09.032799"
   },
   "823669": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Philadelphia Phillies @ Minnesota Twins",
-    "last_checked": "2026-08-13T19:38:51.761934"
+    "last_checked": "2026-08-13T20:17:09.032802"
   },
   "823995": {
     "detailedState": "Scheduled",
     "matchup": "Texas Rangers @ Los Angeles Angels",
-    "last_checked": "2026-08-13T19:38:51.761941"
+    "last_checked": "2026-08-13T20:17:09.032809"
   },
   "823915": {
     "detailedState": "Scheduled",
     "matchup": "Milwaukee Brewers @ Los Angeles Dodgers",
-    "last_checked": "2026-08-13T19:38:51.761944"
+    "last_checked": "2026-08-13T20:17:09.032813"
   }
 }
