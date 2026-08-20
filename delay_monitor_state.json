@@ -2490,48 +2490,48 @@
     "last_checked": "2026-08-19T23:54:22.370883"
   },
   "824474": {
-    "detailedState": "Pre-Game",
+    "detailedState": "In Progress",
     "matchup": "St. Louis Cardinals @ Cincinnati Reds",
-    "last_checked": "2026-08-20T16:11:44.832712"
+    "last_checked": "2026-08-20T16:51:13.090024"
   },
   "824395": {
-    "detailedState": "Pre-Game",
+    "detailedState": "Warmup",
     "matchup": "San Francisco Giants @ Cleveland Guardians",
-    "last_checked": "2026-08-20T16:11:44.832726"
+    "last_checked": "2026-08-20T16:51:13.090038"
   },
   "822934": {
-    "detailedState": "Pre-Game",
+    "detailedState": "Warmup",
     "matchup": "Toronto Blue Jays @ Tampa Bay Rays",
-    "last_checked": "2026-08-20T16:11:44.832730"
+    "last_checked": "2026-08-20T16:51:13.090042"
   },
   "824074": {
     "detailedState": "Pre-Game",
     "matchup": "Athletics @ Kansas City Royals",
-    "last_checked": "2026-08-20T16:11:44.832734"
+    "last_checked": "2026-08-20T16:51:13.090046"
   },
   "824589": {
     "detailedState": "Pre-Game",
     "matchup": "Atlanta Braves @ Chicago White Sox",
-    "last_checked": "2026-08-20T16:11:44.832737"
+    "last_checked": "2026-08-20T16:51:13.090049"
   },
   "823747": {
     "detailedState": "Pre-Game",
     "matchup": "Seattle Mariners @ Milwaukee Brewers",
-    "last_checked": "2026-08-20T16:11:44.832740"
+    "last_checked": "2026-08-20T16:51:13.090052"
   },
   "824802": {
     "detailedState": "Scheduled",
     "matchup": "New York Yankees @ Baltimore Orioles",
-    "last_checked": "2026-08-20T16:11:44.832743"
+    "last_checked": "2026-08-20T16:51:13.090055"
   },
   "822861": {
     "detailedState": "Scheduled",
     "matchup": "Washington Nationals @ Texas Rangers",
-    "last_checked": "2026-08-20T16:11:44.832750"
+    "last_checked": "2026-08-20T16:51:13.090063"
   },
   "824153": {
     "detailedState": "Scheduled",
     "matchup": "Los Angeles Angels @ Houston Astros",
-    "last_checked": "2026-08-20T16:11:44.832754"
+    "last_checked": "2026-08-20T16:51:13.090068"
   }
 }
