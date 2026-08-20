@@ -2490,48 +2490,48 @@
     "last_checked": "2026-08-19T23:54:22.370883"
   },
   "824474": {
-    "detailedState": "In Progress",
+    "detailedState": "Game Over",
     "matchup": "St. Louis Cardinals @ Cincinnati Reds",
-    "last_checked": "2026-08-20T19:33:06.894347"
+    "last_checked": "2026-08-20T19:58:30.059586"
   },
   "824395": {
-    "detailedState": "In Progress",
+    "detailedState": "Final",
     "matchup": "San Francisco Giants @ Cleveland Guardians",
-    "last_checked": "2026-08-20T19:33:06.894361"
+    "last_checked": "2026-08-20T19:58:30.059599"
   },
   "822934": {
-    "detailedState": "In Progress",
+    "detailedState": "Final",
     "matchup": "Toronto Blue Jays @ Tampa Bay Rays",
-    "last_checked": "2026-08-20T19:33:06.894365"
+    "last_checked": "2026-08-20T19:58:30.059604"
   },
   "824074": {
     "detailedState": "In Progress",
     "matchup": "Athletics @ Kansas City Royals",
-    "last_checked": "2026-08-20T19:33:06.894368"
+    "last_checked": "2026-08-20T19:58:30.059608"
   },
   "824589": {
     "detailedState": "In Progress",
     "matchup": "Atlanta Braves @ Chicago White Sox",
-    "last_checked": "2026-08-20T19:33:06.894372"
+    "last_checked": "2026-08-20T19:58:30.059611"
   },
   "823747": {
     "detailedState": "In Progress",
     "matchup": "Seattle Mariners @ Milwaukee Brewers",
-    "last_checked": "2026-08-20T19:33:06.894375"
+    "last_checked": "2026-08-20T19:58:30.059614"
   },
   "824802": {
     "detailedState": "Pre-Game",
     "matchup": "New York Yankees @ Baltimore Orioles",
-    "last_checked": "2026-08-20T19:33:06.894379"
+    "last_checked": "2026-08-20T19:58:30.059617"
   },
   "822861": {
     "detailedState": "Scheduled",
     "matchup": "Washington Nationals @ Texas Rangers",
-    "last_checked": "2026-08-20T19:33:06.894387"
+    "last_checked": "2026-08-20T19:58:30.059625"
   },
   "824153": {
     "detailedState": "Scheduled",
     "matchup": "Los Angeles Angels @ Houston Astros",
-    "last_checked": "2026-08-20T19:33:06.894393"
+    "last_checked": "2026-08-20T19:58:30.059629"
   }
 }
