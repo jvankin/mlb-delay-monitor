@@ -2492,46 +2492,46 @@
   "824474": {
     "detailedState": "Final",
     "matchup": "St. Louis Cardinals @ Cincinnati Reds",
-    "last_checked": "2026-08-20T20:26:13.137679"
+    "last_checked": "2026-08-20T20:54:12.352468"
   },
   "824395": {
     "detailedState": "Final",
     "matchup": "San Francisco Giants @ Cleveland Guardians",
-    "last_checked": "2026-08-20T20:26:13.137690"
+    "last_checked": "2026-08-20T20:54:12.352478"
   },
   "822934": {
     "detailedState": "Final",
     "matchup": "Toronto Blue Jays @ Tampa Bay Rays",
-    "last_checked": "2026-08-20T20:26:13.137694"
+    "last_checked": "2026-08-20T20:54:12.352483"
   },
   "824074": {
     "detailedState": "In Progress",
     "matchup": "Athletics @ Kansas City Royals",
-    "last_checked": "2026-08-20T20:26:13.137698"
+    "last_checked": "2026-08-20T20:54:12.352486"
   },
   "824589": {
-    "detailedState": "In Progress",
+    "detailedState": "Final",
     "matchup": "Atlanta Braves @ Chicago White Sox",
-    "last_checked": "2026-08-20T20:26:13.137702"
+    "last_checked": "2026-08-20T20:54:12.352489"
   },
   "823747": {
     "detailedState": "In Progress",
     "matchup": "Seattle Mariners @ Milwaukee Brewers",
-    "last_checked": "2026-08-20T20:26:13.137706"
+    "last_checked": "2026-08-20T20:54:12.352492"
   },
   "824802": {
     "detailedState": "Pre-Game",
     "matchup": "New York Yankees @ Baltimore Orioles",
-    "last_checked": "2026-08-20T20:26:13.137710"
+    "last_checked": "2026-08-20T20:54:12.352495"
   },
   "822861": {
     "detailedState": "Pre-Game",
     "matchup": "Washington Nationals @ Texas Rangers",
-    "last_checked": "2026-08-20T20:26:13.137718"
+    "last_checked": "2026-08-20T20:54:12.352502"
   },
   "824153": {
     "detailedState": "Pre-Game",
     "matchup": "Los Angeles Angels @ Houston Astros",
-    "last_checked": "2026-08-20T20:26:13.137722"
+    "last_checked": "2026-08-20T20:54:12.352506"
   }
 }
