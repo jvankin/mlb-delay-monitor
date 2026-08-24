@@ -2762,51 +2762,51 @@
   "824235": {
     "detailedState": "In Progress",
     "matchup": "Tampa Bay Rays @ Detroit Tigers",
-    "last_checked": "2026-08-24T22:57:44.626640"
+    "last_checked": "2026-08-24T23:19:06.879120"
   },
   "823828": {
     "detailedState": "In Progress",
     "matchup": "Boston Red Sox @ Miami Marlins",
-    "last_checked": "2026-08-24T22:57:44.626649"
+    "last_checked": "2026-08-24T23:19:06.879135"
   },
   "822695": {
-    "detailedState": "In Progress",
+    "detailedState": "Player challenge",
     "matchup": "Colorado Rockies @ Washington Nationals",
-    "last_checked": "2026-08-24T22:57:44.626653"
+    "last_checked": "2026-08-24T23:19:06.879139"
   },
   "824557": {
-    "detailedState": "Pre-Game",
+    "detailedState": "Warmup",
     "matchup": "Texas Rangers @ Chicago White Sox",
-    "last_checked": "2026-08-24T22:57:44.626656"
+    "last_checked": "2026-08-24T23:19:06.879143"
   },
   "823992": {
     "detailedState": "Pre-Game",
     "matchup": "Cleveland Guardians @ Los Angeles Angels",
-    "last_checked": "2026-08-24T22:57:44.626659"
+    "last_checked": "2026-08-24T23:19:06.879146"
   },
   "825041": {
     "detailedState": "Pre-Game",
     "matchup": "Chicago Cubs @ Arizona Diamondbacks",
-    "last_checked": "2026-08-24T22:57:44.626662"
+    "last_checked": "2026-08-24T23:19:06.879149"
   },
   "823260": {
     "detailedState": "Pre-Game",
     "matchup": "Pittsburgh Pirates @ San Diego Padres",
-    "last_checked": "2026-08-24T22:57:44.626665"
+    "last_checked": "2026-08-24T23:19:06.879151"
   },
   "824964": {
     "detailedState": "Pre-Game",
     "matchup": "Minnesota Twins @ Athletics",
-    "last_checked": "2026-08-24T22:57:44.626672"
+    "last_checked": "2026-08-24T23:19:06.879157"
   },
   "823097": {
     "detailedState": "Pre-Game",
     "matchup": "Philadelphia Phillies @ Seattle Mariners",
-    "last_checked": "2026-08-24T22:57:44.626676"
+    "last_checked": "2026-08-24T23:19:06.879161"
   },
   "823183": {
     "detailedState": "Pre-Game",
     "matchup": "Cincinnati Reds @ San Francisco Giants",
-    "last_checked": "2026-08-24T22:57:44.626679"
+    "last_checked": "2026-08-24T23:19:06.879164"
   }
 }
