@@ -2762,51 +2762,51 @@
   "824235": {
     "detailedState": "In Progress",
     "matchup": "Tampa Bay Rays @ Detroit Tigers",
-    "last_checked": "2026-08-24T23:40:15.951529"
+    "last_checked": "2026-08-24T23:59:17.769121"
   },
   "823828": {
     "detailedState": "In Progress",
     "matchup": "Boston Red Sox @ Miami Marlins",
-    "last_checked": "2026-08-24T23:40:15.951537"
+    "last_checked": "2026-08-24T23:59:17.769131"
   },
   "822695": {
     "detailedState": "In Progress",
     "matchup": "Colorado Rockies @ Washington Nationals",
-    "last_checked": "2026-08-24T23:40:15.951539"
+    "last_checked": "2026-08-24T23:59:17.769135"
   },
   "824557": {
-    "detailedState": "Warmup",
+    "detailedState": "In Progress",
     "matchup": "Texas Rangers @ Chicago White Sox",
-    "last_checked": "2026-08-24T23:40:15.951541"
+    "last_checked": "2026-08-24T23:59:17.769138"
   },
   "823992": {
     "detailedState": "Pre-Game",
     "matchup": "Cleveland Guardians @ Los Angeles Angels",
-    "last_checked": "2026-08-24T23:40:15.951542"
+    "last_checked": "2026-08-24T23:59:17.769142"
   },
   "825041": {
     "detailedState": "Pre-Game",
     "matchup": "Chicago Cubs @ Arizona Diamondbacks",
-    "last_checked": "2026-08-24T23:40:15.951544"
+    "last_checked": "2026-08-24T23:59:17.769145"
   },
   "823260": {
     "detailedState": "Pre-Game",
     "matchup": "Pittsburgh Pirates @ San Diego Padres",
-    "last_checked": "2026-08-24T23:40:15.951546"
+    "last_checked": "2026-08-24T23:59:17.769149"
   },
   "824964": {
     "detailedState": "Pre-Game",
     "matchup": "Minnesota Twins @ Athletics",
-    "last_checked": "2026-08-24T23:40:15.951551"
+    "last_checked": "2026-08-24T23:59:17.769156"
   },
   "823097": {
     "detailedState": "Pre-Game",
     "matchup": "Philadelphia Phillies @ Seattle Mariners",
-    "last_checked": "2026-08-24T23:40:15.951554"
+    "last_checked": "2026-08-24T23:59:17.769160"
   },
   "823183": {
     "detailedState": "Pre-Game",
     "matchup": "Cincinnati Reds @ San Francisco Giants",
-    "last_checked": "2026-08-24T23:40:15.951556"
+    "last_checked": "2026-08-24T23:59:17.769163"
   }
 }
