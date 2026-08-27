@@ -2958,5 +2958,40 @@
     "detailedState": "Pre-Game",
     "matchup": "Minnesota Twins @ Athletics",
     "last_checked": "2026-08-26T21:46:58.999715"
+  },
+  "822694": {
+    "detailedState": "Scheduled",
+    "matchup": "Colorado Rockies @ Washington Nationals",
+    "last_checked": "2026-08-27T02:11:38.830020"
+  },
+  "823014": {
+    "detailedState": "Scheduled",
+    "matchup": "Baltimore Orioles @ St. Louis Cardinals",
+    "last_checked": "2026-08-27T02:11:38.830036"
+  },
+  "823503": {
+    "detailedState": "Scheduled",
+    "matchup": "Houston Astros @ New York Yankees",
+    "last_checked": "2026-08-27T02:11:38.830040"
+  },
+  "822771": {
+    "detailedState": "Scheduled",
+    "matchup": "Kansas City Royals @ Toronto Blue Jays",
+    "last_checked": "2026-08-27T02:11:38.830044"
+  },
+  "823581": {
+    "detailedState": "Scheduled",
+    "matchup": "Milwaukee Brewers @ New York Mets",
+    "last_checked": "2026-08-27T02:11:38.830047"
+  },
+  "824879": {
+    "detailedState": "Scheduled",
+    "matchup": "Los Angeles Dodgers @ Atlanta Braves",
+    "last_checked": "2026-08-27T02:11:38.830051"
+  },
+  "823179": {
+    "detailedState": "Scheduled",
+    "matchup": "Arizona Diamondbacks @ San Francisco Giants",
+    "last_checked": "2026-08-27T02:11:38.830055"
   }
 }
