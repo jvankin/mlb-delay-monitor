@@ -3070,88 +3070,88 @@
     "last_checked": "2026-08-28T18:47:09.682064"
   },
   "823539": {
-    "detailedState": "In Progress",
+    "detailedState": "Final",
     "matchup": "Boston Red Sox @ New York Yankees",
-    "last_checked": "2026-08-29T19:51:20.854457"
+    "last_checked": "2026-08-29T22:06:35.886545"
   },
   "823501": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Boston Red Sox @ New York Yankees",
-    "last_checked": "2026-08-29T19:51:20.854466"
+    "last_checked": "2026-08-29T22:06:35.886556"
   },
   "824230": {
-    "detailedState": "In Progress",
+    "detailedState": "Final",
     "matchup": "Los Angeles Dodgers @ Detroit Tigers",
-    "last_checked": "2026-08-29T19:51:20.854469"
+    "last_checked": "2026-08-29T22:06:35.886561"
   },
   "823665": {
-    "detailedState": "In Progress",
+    "detailedState": "Final",
     "matchup": "Chicago White Sox @ Minnesota Twins",
-    "last_checked": "2026-08-29T19:51:20.854473"
+    "last_checked": "2026-08-29T22:06:35.886564"
   },
   "823011": {
-    "detailedState": "In Progress",
+    "detailedState": "Final",
     "matchup": "Pittsburgh Pirates @ St. Louis Cardinals",
-    "last_checked": "2026-08-29T19:51:20.854475"
+    "last_checked": "2026-08-29T22:06:35.886567"
   },
   "824637": {
-    "detailedState": "In Progress",
+    "detailedState": "Final",
     "matchup": "Cincinnati Reds @ Chicago Cubs",
-    "last_checked": "2026-08-29T19:51:20.854478"
+    "last_checked": "2026-08-29T22:06:35.886570"
   },
   "822770": {
     "detailedState": "In Progress",
     "matchup": "Seattle Mariners @ Toronto Blue Jays",
-    "last_checked": "2026-08-29T19:51:20.854481"
+    "last_checked": "2026-08-29T22:06:35.886573"
   },
   "823177": {
-    "detailedState": "Warmup",
+    "detailedState": "In Progress",
     "matchup": "Arizona Diamondbacks @ San Francisco Giants",
-    "last_checked": "2026-08-29T19:51:20.854487"
+    "last_checked": "2026-08-29T22:06:35.886580"
   },
   "823176": {
     "detailedState": "Scheduled",
     "matchup": "Arizona Diamondbacks @ San Francisco Giants",
-    "last_checked": "2026-08-29T19:51:20.854491"
+    "last_checked": "2026-08-29T22:06:35.886584"
   },
   "822690": {
-    "detailedState": "Warmup",
+    "detailedState": "In Progress",
     "matchup": "Miami Marlins @ Washington Nationals",
-    "last_checked": "2026-08-29T19:51:20.854494"
+    "last_checked": "2026-08-29T22:06:35.886587"
   },
   "824392": {
-    "detailedState": "Pre-Game",
+    "detailedState": "In Progress",
     "matchup": "Kansas City Royals @ Cleveland Guardians",
-    "last_checked": "2026-08-29T19:51:20.854497"
+    "last_checked": "2026-08-29T22:06:35.886590"
   },
   "823582": {
-    "detailedState": "Warmup",
+    "detailedState": "In Progress",
     "matchup": "Houston Astros @ New York Mets",
-    "last_checked": "2026-08-29T19:51:20.854499"
+    "last_checked": "2026-08-29T22:06:35.886593"
   },
   "822936": {
-    "detailedState": "Warmup",
+    "detailedState": "In Progress",
     "matchup": "San Diego Padres @ Tampa Bay Rays",
-    "last_checked": "2026-08-29T19:51:20.854502"
+    "last_checked": "2026-08-29T22:06:35.886596"
   },
   "824874": {
-    "detailedState": "Pre-Game",
+    "detailedState": "In Progress",
     "matchup": "Colorado Rockies @ Atlanta Braves",
-    "last_checked": "2026-08-29T19:51:20.854504"
+    "last_checked": "2026-08-29T22:06:35.886599"
   },
   "823741": {
     "detailedState": "Pre-Game",
     "matchup": "Texas Rangers @ Milwaukee Brewers",
-    "last_checked": "2026-08-29T19:51:20.854506"
+    "last_checked": "2026-08-29T22:06:35.886601"
   },
   "824961": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Baltimore Orioles @ Athletics",
-    "last_checked": "2026-08-29T19:51:20.854509"
+    "last_checked": "2026-08-29T22:06:35.886604"
   },
   "823986": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Philadelphia Phillies @ Los Angeles Angels",
-    "last_checked": "2026-08-29T19:51:20.854512"
+    "last_checked": "2026-08-29T22:06:35.886606"
   }
 }
