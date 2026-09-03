@@ -3437,46 +3437,46 @@
   "823337": {
     "detailedState": "Final",
     "matchup": "San Francisco Giants @ Pittsburgh Pirates",
-    "last_checked": "2026-09-03T21:53:29.376884"
+    "last_checked": "2026-09-03T23:39:50.304677"
   },
   "824388": {
     "detailedState": "Final",
     "matchup": "Toronto Blue Jays @ Cleveland Guardians",
-    "last_checked": "2026-09-03T21:53:29.376899"
+    "last_checked": "2026-09-03T23:39:50.304691"
   },
   "824144": {
     "detailedState": "Final",
     "matchup": "Chicago White Sox @ Houston Astros",
-    "last_checked": "2026-09-03T21:53:29.376904"
+    "last_checked": "2026-09-03T23:39:50.304695"
   },
   "824796": {
-    "detailedState": "Pre-Game",
+    "detailedState": "In Progress",
     "matchup": "Boston Red Sox @ Baltimore Orioles",
-    "last_checked": "2026-09-03T21:53:29.376907"
+    "last_checked": "2026-09-03T23:39:50.304698"
   },
   "824632": {
-    "detailedState": "Pre-Game",
+    "detailedState": "In Progress",
     "matchup": "Milwaukee Brewers @ Chicago Cubs",
-    "last_checked": "2026-09-03T21:53:29.376911"
+    "last_checked": "2026-09-03T23:39:50.304700"
   },
   "824069": {
-    "detailedState": "Pre-Game",
+    "detailedState": "In Progress",
     "matchup": "Miami Marlins @ Kansas City Royals",
-    "last_checked": "2026-09-03T21:53:29.376914"
+    "last_checked": "2026-09-03T23:39:50.304703"
   },
   "822853": {
     "detailedState": "Pre-Game",
     "matchup": "Tampa Bay Rays @ Texas Rangers",
-    "last_checked": "2026-09-03T21:53:29.376917"
+    "last_checked": "2026-09-03T23:39:50.304706"
   },
   "823095": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Athletics @ Seattle Mariners",
-    "last_checked": "2026-09-03T21:53:29.376925"
+    "last_checked": "2026-09-03T23:39:50.304713"
   },
   "823907": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "St. Louis Cardinals @ Los Angeles Dodgers",
-    "last_checked": "2026-09-03T21:53:29.376929"
+    "last_checked": "2026-09-03T23:39:50.304717"
   }
 }
