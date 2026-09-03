@@ -3435,48 +3435,48 @@
     "last_checked": "2026-09-02T22:07:32.607392"
   },
   "823337": {
-    "detailedState": "Scheduled",
+    "detailedState": "In Progress",
     "matchup": "San Francisco Giants @ Pittsburgh Pirates",
-    "last_checked": "2026-09-03T13:13:05.509561"
+    "last_checked": "2026-09-03T17:03:08.566830"
   },
   "824388": {
-    "detailedState": "Scheduled",
+    "detailedState": "Warmup",
     "matchup": "Toronto Blue Jays @ Cleveland Guardians",
-    "last_checked": "2026-09-03T13:13:05.509573"
+    "last_checked": "2026-09-03T17:03:08.566842"
   },
   "824144": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Chicago White Sox @ Houston Astros",
-    "last_checked": "2026-09-03T13:13:05.509577"
+    "last_checked": "2026-09-03T17:03:08.566846"
   },
   "824796": {
     "detailedState": "Scheduled",
     "matchup": "Boston Red Sox @ Baltimore Orioles",
-    "last_checked": "2026-09-03T13:13:05.509581"
+    "last_checked": "2026-09-03T17:03:08.566850"
   },
   "824632": {
     "detailedState": "Scheduled",
     "matchup": "Milwaukee Brewers @ Chicago Cubs",
-    "last_checked": "2026-09-03T13:13:05.509583"
+    "last_checked": "2026-09-03T17:03:08.566853"
   },
   "824069": {
     "detailedState": "Scheduled",
     "matchup": "Miami Marlins @ Kansas City Royals",
-    "last_checked": "2026-09-03T13:13:05.509586"
+    "last_checked": "2026-09-03T17:03:08.566858"
   },
   "822853": {
     "detailedState": "Scheduled",
     "matchup": "Tampa Bay Rays @ Texas Rangers",
-    "last_checked": "2026-09-03T13:13:05.509589"
+    "last_checked": "2026-09-03T17:03:08.566861"
   },
   "823095": {
     "detailedState": "Scheduled",
     "matchup": "Athletics @ Seattle Mariners",
-    "last_checked": "2026-09-03T13:13:05.509596"
+    "last_checked": "2026-09-03T17:03:08.566869"
   },
   "823907": {
     "detailedState": "Scheduled",
     "matchup": "St. Louis Cardinals @ Los Angeles Dodgers",
-    "last_checked": "2026-09-03T13:13:05.509599"
+    "last_checked": "2026-09-03T17:03:08.566873"
   }
 }
