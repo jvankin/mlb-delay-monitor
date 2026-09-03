@@ -3437,46 +3437,46 @@
   "823337": {
     "detailedState": "Final",
     "matchup": "San Francisco Giants @ Pittsburgh Pirates",
-    "last_checked": "2026-09-03T19:44:21.309213"
+    "last_checked": "2026-09-03T21:53:29.376884"
   },
   "824388": {
-    "detailedState": "In Progress",
+    "detailedState": "Final",
     "matchup": "Toronto Blue Jays @ Cleveland Guardians",
-    "last_checked": "2026-09-03T19:44:21.309222"
+    "last_checked": "2026-09-03T21:53:29.376899"
   },
   "824144": {
-    "detailedState": "In Progress",
+    "detailedState": "Final",
     "matchup": "Chicago White Sox @ Houston Astros",
-    "last_checked": "2026-09-03T19:44:21.309226"
+    "last_checked": "2026-09-03T21:53:29.376904"
   },
   "824796": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Boston Red Sox @ Baltimore Orioles",
-    "last_checked": "2026-09-03T19:44:21.309229"
+    "last_checked": "2026-09-03T21:53:29.376907"
   },
   "824632": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Milwaukee Brewers @ Chicago Cubs",
-    "last_checked": "2026-09-03T19:44:21.309232"
+    "last_checked": "2026-09-03T21:53:29.376911"
   },
   "824069": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Miami Marlins @ Kansas City Royals",
-    "last_checked": "2026-09-03T19:44:21.309235"
+    "last_checked": "2026-09-03T21:53:29.376914"
   },
   "822853": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Tampa Bay Rays @ Texas Rangers",
-    "last_checked": "2026-09-03T19:44:21.309238"
+    "last_checked": "2026-09-03T21:53:29.376917"
   },
   "823095": {
     "detailedState": "Scheduled",
     "matchup": "Athletics @ Seattle Mariners",
-    "last_checked": "2026-09-03T19:44:21.309244"
+    "last_checked": "2026-09-03T21:53:29.376925"
   },
   "823907": {
     "detailedState": "Scheduled",
     "matchup": "St. Louis Cardinals @ Los Angeles Dodgers",
-    "last_checked": "2026-09-03T19:44:21.309248"
+    "last_checked": "2026-09-03T21:53:29.376929"
   }
 }
