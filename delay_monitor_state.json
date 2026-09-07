@@ -3710,58 +3710,58 @@
     "last_checked": "2026-09-06T23:11:14.125710"
   },
   "823415": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Atlanta Braves @ Philadelphia Phillies",
-    "last_checked": "2026-09-07T11:34:37.793140"
+    "last_checked": "2026-09-07T16:38:19.109065"
   },
   "823820": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "New York Mets @ Miami Marlins",
-    "last_checked": "2026-09-07T11:34:37.793152"
+    "last_checked": "2026-09-07T16:38:19.109083"
   },
   "824715": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Los Angeles Angels @ Boston Red Sox",
-    "last_checked": "2026-09-07T11:34:37.793154"
+    "last_checked": "2026-09-07T16:38:19.109088"
   },
   "824793": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Cleveland Guardians @ Baltimore Orioles",
-    "last_checked": "2026-09-07T11:34:37.793156"
+    "last_checked": "2026-09-07T16:38:19.109093"
   },
   "824062": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Arizona Diamondbacks @ Kansas City Royals",
-    "last_checked": "2026-09-07T11:34:37.793159"
+    "last_checked": "2026-09-07T16:38:19.109098"
   },
   "823742": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Chicago Cubs @ Milwaukee Brewers",
-    "last_checked": "2026-09-07T11:34:37.793161"
+    "last_checked": "2026-09-07T16:38:19.109103"
   },
   "824229": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Minnesota Twins @ Detroit Tigers",
-    "last_checked": "2026-09-07T11:34:37.793162"
+    "last_checked": "2026-09-07T16:38:19.109107"
   },
   "823254": {
     "detailedState": "Scheduled",
     "matchup": "Washington Nationals @ San Diego Padres",
-    "last_checked": "2026-09-07T11:34:37.793168"
+    "last_checked": "2026-09-07T16:38:19.109117"
   },
   "823175": {
     "detailedState": "Scheduled",
     "matchup": "St. Louis Cardinals @ San Francisco Giants",
-    "last_checked": "2026-09-07T11:34:37.793170"
+    "last_checked": "2026-09-07T16:38:19.109122"
   },
   "823902": {
     "detailedState": "Scheduled",
     "matchup": "Cincinnati Reds @ Los Angeles Dodgers",
-    "last_checked": "2026-09-07T11:34:37.793172"
+    "last_checked": "2026-09-07T16:38:19.109128"
   },
   "824958": {
     "detailedState": "Scheduled",
     "matchup": "Toronto Blue Jays @ Athletics",
-    "last_checked": "2026-09-07T11:34:37.793174"
+    "last_checked": "2026-09-07T16:38:19.109132"
   }
 }
