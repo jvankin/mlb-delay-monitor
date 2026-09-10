@@ -3915,28 +3915,28 @@
     "last_checked": "2026-09-09T22:13:52.365220"
   },
   "824872": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Tampa Bay Rays @ Atlanta Braves",
-    "last_checked": "2026-09-10T09:12:45.551517"
+    "last_checked": "2026-09-10T13:36:52.580089"
   },
   "823413": {
     "detailedState": "Scheduled",
     "matchup": "Houston Astros @ Philadelphia Phillies",
-    "last_checked": "2026-09-10T09:12:45.551528"
+    "last_checked": "2026-09-10T13:36:52.580099"
   },
   "823088": {
     "detailedState": "Scheduled",
     "matchup": "Texas Rangers @ Seattle Mariners",
-    "last_checked": "2026-09-10T09:12:45.551532"
+    "last_checked": "2026-09-10T13:36:52.580103"
   },
   "823499": {
     "detailedState": "Scheduled",
     "matchup": "Colorado Rockies @ New York Yankees",
-    "last_checked": "2026-09-10T09:12:45.551534"
+    "last_checked": "2026-09-10T13:36:52.580106"
   },
   "824550": {
     "detailedState": "Scheduled",
     "matchup": "Pittsburgh Pirates @ Chicago White Sox",
-    "last_checked": "2026-09-10T09:12:45.551536"
+    "last_checked": "2026-09-10T13:36:52.580110"
   }
 }
