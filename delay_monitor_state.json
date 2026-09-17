@@ -4365,48 +4365,48 @@
     "last_checked": "2026-09-16T22:21:38.476012"
   },
   "823334": {
-    "detailedState": "In Progress",
+    "detailedState": "Final",
     "matchup": "Milwaukee Brewers @ Pittsburgh Pirates",
-    "last_checked": "2026-09-17T18:57:26.843530"
+    "last_checked": "2026-09-17T21:52:52.336965"
   },
   "824464": {
-    "detailedState": "In Progress",
+    "detailedState": "Final",
     "matchup": "Los Angeles Dodgers @ Cincinnati Reds",
-    "last_checked": "2026-09-17T18:57:26.843546"
+    "last_checked": "2026-09-17T21:52:52.336975"
   },
   "822924": {
-    "detailedState": "In Progress",
+    "detailedState": "Final",
     "matchup": "Athletics @ Tampa Bay Rays",
-    "last_checked": "2026-09-17T18:57:26.843554"
+    "last_checked": "2026-09-17T21:52:52.336979"
   },
   "824305": {
-    "detailedState": "Warmup",
+    "detailedState": "In Progress",
     "matchup": "San Diego Padres @ Colorado Rockies",
-    "last_checked": "2026-09-17T18:57:26.843558"
+    "last_checked": "2026-09-17T21:52:52.336982"
   },
   "824141": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Kansas City Royals @ Houston Astros",
-    "last_checked": "2026-09-17T18:57:26.843562"
+    "last_checked": "2026-09-17T21:52:52.336986"
   },
   "823573": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Philadelphia Phillies @ New York Mets",
-    "last_checked": "2026-09-17T18:57:26.843566"
+    "last_checked": "2026-09-17T21:52:52.336988"
   },
   "824548": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Detroit Tigers @ Chicago White Sox",
-    "last_checked": "2026-09-17T18:57:26.843568"
+    "last_checked": "2026-09-17T21:52:52.336991"
   },
   "822845": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Boston Red Sox @ Texas Rangers",
-    "last_checked": "2026-09-17T18:57:26.843576"
+    "last_checked": "2026-09-17T21:52:52.336998"
   },
   "823978": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Minnesota Twins @ Los Angeles Angels",
-    "last_checked": "2026-09-17T18:57:26.843580"
+    "last_checked": "2026-09-17T21:52:52.337003"
   }
 }
