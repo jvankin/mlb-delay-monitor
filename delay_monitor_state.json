@@ -4365,48 +4365,48 @@
     "last_checked": "2026-09-16T22:21:38.476012"
   },
   "823334": {
-    "detailedState": "Pre-Game",
+    "detailedState": "In Progress",
     "matchup": "Milwaukee Brewers @ Pittsburgh Pirates",
-    "last_checked": "2026-09-17T15:01:01.830766"
+    "last_checked": "2026-09-17T18:57:26.843530"
   },
   "824464": {
-    "detailedState": "Pre-Game",
+    "detailedState": "In Progress",
     "matchup": "Los Angeles Dodgers @ Cincinnati Reds",
-    "last_checked": "2026-09-17T15:01:01.830777"
+    "last_checked": "2026-09-17T18:57:26.843546"
   },
   "822924": {
-    "detailedState": "Pre-Game",
+    "detailedState": "In Progress",
     "matchup": "Athletics @ Tampa Bay Rays",
-    "last_checked": "2026-09-17T15:01:01.830780"
+    "last_checked": "2026-09-17T18:57:26.843554"
   },
   "824305": {
-    "detailedState": "Scheduled",
+    "detailedState": "Warmup",
     "matchup": "San Diego Padres @ Colorado Rockies",
-    "last_checked": "2026-09-17T15:01:01.830784"
+    "last_checked": "2026-09-17T18:57:26.843558"
   },
   "824141": {
     "detailedState": "Scheduled",
     "matchup": "Kansas City Royals @ Houston Astros",
-    "last_checked": "2026-09-17T15:01:01.830787"
+    "last_checked": "2026-09-17T18:57:26.843562"
   },
   "823573": {
     "detailedState": "Scheduled",
     "matchup": "Philadelphia Phillies @ New York Mets",
-    "last_checked": "2026-09-17T15:01:01.830790"
+    "last_checked": "2026-09-17T18:57:26.843566"
   },
   "824548": {
     "detailedState": "Scheduled",
     "matchup": "Detroit Tigers @ Chicago White Sox",
-    "last_checked": "2026-09-17T15:01:01.830792"
+    "last_checked": "2026-09-17T18:57:26.843568"
   },
   "822845": {
     "detailedState": "Scheduled",
     "matchup": "Boston Red Sox @ Texas Rangers",
-    "last_checked": "2026-09-17T15:01:01.830799"
+    "last_checked": "2026-09-17T18:57:26.843576"
   },
   "823978": {
     "detailedState": "Scheduled",
     "matchup": "Minnesota Twins @ Los Angeles Angels",
-    "last_checked": "2026-09-17T15:01:01.830803"
+    "last_checked": "2026-09-17T18:57:26.843580"
   }
 }
