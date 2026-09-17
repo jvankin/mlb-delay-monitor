@@ -4365,48 +4365,48 @@
     "last_checked": "2026-09-16T22:21:38.476012"
   },
   "823334": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Milwaukee Brewers @ Pittsburgh Pirates",
-    "last_checked": "2026-09-17T10:13:16.261694"
+    "last_checked": "2026-09-17T15:01:01.830766"
   },
   "824464": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Los Angeles Dodgers @ Cincinnati Reds",
-    "last_checked": "2026-09-17T10:13:16.261711"
+    "last_checked": "2026-09-17T15:01:01.830777"
   },
   "822924": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Athletics @ Tampa Bay Rays",
-    "last_checked": "2026-09-17T10:13:16.261716"
+    "last_checked": "2026-09-17T15:01:01.830780"
   },
   "824305": {
     "detailedState": "Scheduled",
     "matchup": "San Diego Padres @ Colorado Rockies",
-    "last_checked": "2026-09-17T10:13:16.261722"
+    "last_checked": "2026-09-17T15:01:01.830784"
   },
   "824141": {
     "detailedState": "Scheduled",
     "matchup": "Kansas City Royals @ Houston Astros",
-    "last_checked": "2026-09-17T10:13:16.261726"
+    "last_checked": "2026-09-17T15:01:01.830787"
   },
   "823573": {
     "detailedState": "Scheduled",
     "matchup": "Philadelphia Phillies @ New York Mets",
-    "last_checked": "2026-09-17T10:13:16.261729"
+    "last_checked": "2026-09-17T15:01:01.830790"
   },
   "824548": {
     "detailedState": "Scheduled",
     "matchup": "Detroit Tigers @ Chicago White Sox",
-    "last_checked": "2026-09-17T10:13:16.261731"
+    "last_checked": "2026-09-17T15:01:01.830792"
   },
   "822845": {
     "detailedState": "Scheduled",
     "matchup": "Boston Red Sox @ Texas Rangers",
-    "last_checked": "2026-09-17T10:13:16.261737"
+    "last_checked": "2026-09-17T15:01:01.830799"
   },
   "823978": {
     "detailedState": "Scheduled",
     "matchup": "Minnesota Twins @ Los Angeles Angels",
-    "last_checked": "2026-09-17T10:13:16.261741"
+    "last_checked": "2026-09-17T15:01:01.830803"
   }
 }
