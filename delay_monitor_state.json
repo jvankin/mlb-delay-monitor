@@ -4367,46 +4367,46 @@
   "823334": {
     "detailedState": "Final",
     "matchup": "Milwaukee Brewers @ Pittsburgh Pirates",
-    "last_checked": "2026-09-17T21:52:52.336965"
+    "last_checked": "2026-09-17T23:47:22.497166"
   },
   "824464": {
     "detailedState": "Final",
     "matchup": "Los Angeles Dodgers @ Cincinnati Reds",
-    "last_checked": "2026-09-17T21:52:52.336975"
+    "last_checked": "2026-09-17T23:47:22.497174"
   },
   "822924": {
     "detailedState": "Final",
     "matchup": "Athletics @ Tampa Bay Rays",
-    "last_checked": "2026-09-17T21:52:52.336979"
+    "last_checked": "2026-09-17T23:47:22.497177"
   },
   "824305": {
-    "detailedState": "In Progress",
+    "detailedState": "Final",
     "matchup": "San Diego Padres @ Colorado Rockies",
-    "last_checked": "2026-09-17T21:52:52.336982"
+    "last_checked": "2026-09-17T23:47:22.497181"
   },
   "824141": {
-    "detailedState": "Pre-Game",
+    "detailedState": "In Progress",
     "matchup": "Kansas City Royals @ Houston Astros",
-    "last_checked": "2026-09-17T21:52:52.336986"
+    "last_checked": "2026-09-17T23:47:22.497183"
   },
   "823573": {
-    "detailedState": "Pre-Game",
+    "detailedState": "In Progress",
     "matchup": "Philadelphia Phillies @ New York Mets",
-    "last_checked": "2026-09-17T21:52:52.336988"
+    "last_checked": "2026-09-17T23:47:22.497187"
   },
   "824548": {
-    "detailedState": "Pre-Game",
+    "detailedState": "In Progress",
     "matchup": "Detroit Tigers @ Chicago White Sox",
-    "last_checked": "2026-09-17T21:52:52.336991"
+    "last_checked": "2026-09-17T23:47:22.497189"
   },
   "822845": {
-    "detailedState": "Pre-Game",
+    "detailedState": "Warmup",
     "matchup": "Boston Red Sox @ Texas Rangers",
-    "last_checked": "2026-09-17T21:52:52.336998"
+    "last_checked": "2026-09-17T23:47:22.497195"
   },
   "823978": {
     "detailedState": "Pre-Game",
     "matchup": "Minnesota Twins @ Los Angeles Angels",
-    "last_checked": "2026-09-17T21:52:52.337003"
+    "last_checked": "2026-09-17T23:47:22.497198"
   }
 }
