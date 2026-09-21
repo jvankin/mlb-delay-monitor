@@ -4633,5 +4633,20 @@
     "detailedState": "In Progress",
     "matchup": "Milwaukee Brewers @ Baltimore Orioles",
     "last_checked": "2026-09-20T23:41:28.946040"
+  },
+  "824787": {
+    "detailedState": "Scheduled",
+    "matchup": "Toronto Blue Jays @ Baltimore Orioles",
+    "last_checked": "2026-09-21T01:42:20.837691"
+  },
+  "824221": {
+    "detailedState": "Scheduled",
+    "matchup": "Washington Nationals @ Detroit Tigers",
+    "last_checked": "2026-09-21T01:42:20.837703"
+  },
+  "823169": {
+    "detailedState": "Scheduled",
+    "matchup": "Minnesota Twins @ San Francisco Giants",
+    "last_checked": "2026-09-21T01:42:20.837707"
   }
 }
