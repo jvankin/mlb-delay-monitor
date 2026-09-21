@@ -4635,18 +4635,18 @@
     "last_checked": "2026-09-20T23:41:28.946040"
   },
   "824787": {
-    "detailedState": "Pre-Game",
+    "detailedState": "Delayed Start",
     "matchup": "Toronto Blue Jays @ Baltimore Orioles",
-    "last_checked": "2026-09-21T19:29:34.647514"
+    "last_checked": "2026-09-21T22:43:14.072716"
   },
   "824221": {
-    "detailedState": "Pre-Game",
+    "detailedState": "In Progress",
     "matchup": "Washington Nationals @ Detroit Tigers",
-    "last_checked": "2026-09-21T19:29:34.647523"
+    "last_checked": "2026-09-21T22:43:14.072739"
   },
   "823169": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Minnesota Twins @ San Francisco Giants",
-    "last_checked": "2026-09-21T19:29:34.647527"
+    "last_checked": "2026-09-21T22:43:14.072745"
   }
 }
