@@ -4952,66 +4952,66 @@
   "824219": {
     "detailedState": "In Progress",
     "matchup": "Pittsburgh Pirates @ Detroit Tigers",
-    "last_checked": "2026-09-26T17:27:38.717499"
+    "last_checked": "2026-09-26T20:01:55.727754"
   },
   "822759": {
-    "detailedState": "Pre-Game",
+    "detailedState": "In Progress",
     "matchup": "Cincinnati Reds @ Toronto Blue Jays",
-    "last_checked": "2026-09-26T17:27:38.717503"
+    "last_checked": "2026-09-26T20:01:55.727757"
   },
   "822678": {
-    "detailedState": "In Progress",
+    "detailedState": "Final",
     "matchup": "New York Mets @ Washington Nationals",
-    "last_checked": "2026-09-26T17:27:38.717486"
+    "last_checked": "2026-09-26T20:01:55.727744"
   },
   "823165": {
-    "detailedState": "Pre-Game",
+    "detailedState": "Warmup",
     "matchup": "Los Angeles Dodgers @ San Francisco Giants",
-    "last_checked": "2026-09-26T17:27:38.717507"
+    "last_checked": "2026-09-26T20:01:55.727760"
   },
   "823653": {
-    "detailedState": "Pre-Game",
+    "detailedState": "Delayed Start",
     "matchup": "Texas Rangers @ Minnesota Twins",
-    "last_checked": "2026-09-26T17:27:38.717510"
+    "last_checked": "2026-09-26T20:01:55.892461"
   },
   "823813": {
-    "detailedState": "Pre-Game",
+    "detailedState": "Warmup",
     "matchup": "Atlanta Braves @ Miami Marlins",
-    "last_checked": "2026-09-26T17:27:38.717515"
+    "last_checked": "2026-09-26T20:01:55.892478"
   },
   "824057": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Cleveland Guardians @ Kansas City Royals",
-    "last_checked": "2026-09-26T17:27:38.717518"
+    "last_checked": "2026-09-26T20:01:55.892483"
   },
   "824543": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Colorado Rockies @ Chicago White Sox",
-    "last_checked": "2026-09-26T17:27:38.717525"
+    "last_checked": "2026-09-26T20:01:55.892490"
   },
   "823733": {
     "detailedState": "Scheduled",
     "matchup": "St. Louis Cardinals @ Milwaukee Brewers",
-    "last_checked": "2026-09-26T17:27:38.717531"
+    "last_checked": "2026-09-26T20:01:55.892495"
   },
   "823407": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Tampa Bay Rays @ Philadelphia Phillies",
-    "last_checked": "2026-09-26T17:27:38.717535"
+    "last_checked": "2026-09-26T20:01:55.892499"
   },
   "823245": {
     "detailedState": "Scheduled",
     "matchup": "Arizona Diamondbacks @ San Diego Padres",
-    "last_checked": "2026-09-26T17:27:38.717538"
+    "last_checked": "2026-09-26T20:01:55.892503"
   },
   "824949": {
     "detailedState": "Scheduled",
     "matchup": "Houston Astros @ Athletics",
-    "last_checked": "2026-09-26T17:27:38.717542"
+    "last_checked": "2026-09-26T20:01:55.892506"
   },
   "823083": {
     "detailedState": "Scheduled",
     "matchup": "Los Angeles Angels @ Seattle Mariners",
-    "last_checked": "2026-09-26T17:27:38.717546"
+    "last_checked": "2026-09-26T20:01:55.892509"
   }
 }
