@@ -5088,5 +5088,25 @@
     "detailedState": "Final",
     "matchup": "St. Louis Cardinals @ Milwaukee Brewers",
     "last_checked": "2026-09-27T22:16:29.736261"
+  },
+  "849845": {
+    "detailedState": "Scheduled",
+    "matchup": "Philadelphia Phillies @ Atlanta Braves",
+    "last_checked": "2026-09-29T04:19:46.270863"
+  },
+  "849849": {
+    "detailedState": "Scheduled",
+    "matchup": "Chicago White Sox @ Houston Astros",
+    "last_checked": "2026-09-29T04:19:46.270875"
+  },
+  "849851": {
+    "detailedState": "Scheduled",
+    "matchup": "Boston Red Sox @ New York Yankees",
+    "last_checked": "2026-09-29T04:19:46.270878"
+  },
+  "849843": {
+    "detailedState": "Scheduled",
+    "matchup": "Chicago Cubs @ San Diego Padres",
+    "last_checked": "2026-09-29T04:19:46.270881"
   }
 }
