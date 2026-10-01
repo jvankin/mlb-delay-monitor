@@ -5128,5 +5128,20 @@
     "detailedState": "Scheduled",
     "matchup": "Chicago Cubs @ San Diego Padres",
     "last_checked": "2026-09-30T21:05:24.827195"
+  },
+  "849844": {
+    "detailedState": "Scheduled",
+    "matchup": "Philadelphia Phillies @ Atlanta Braves",
+    "last_checked": "2026-10-01T00:30:02.342303"
+  },
+  "849847": {
+    "detailedState": "Scheduled",
+    "matchup": "Boston Red Sox @ New York Yankees",
+    "last_checked": "2026-10-01T00:30:02.342315"
+  },
+  "849840": {
+    "detailedState": "Scheduled",
+    "matchup": "Chicago Cubs @ San Diego Padres",
+    "last_checked": "2026-10-01T00:30:02.342319"
   }
 }
