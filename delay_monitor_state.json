@@ -5145,23 +5145,23 @@
     "last_checked": "2026-10-01T00:30:02.342319"
   },
   "849829": {
-    "detailedState": "Scheduled",
+    "detailedState": "Warmup",
     "matchup": "Chicago White Sox @ Cleveland Guardians",
-    "last_checked": "2026-10-03T12:44:38.610216"
+    "last_checked": "2026-10-03T16:44:29.860804"
   },
   "849828": {
     "detailedState": "Scheduled",
     "matchup": "Atlanta Braves @ Los Angeles Dodgers",
-    "last_checked": "2026-10-03T12:44:38.610233"
+    "last_checked": "2026-10-03T16:44:29.860817"
   },
   "849835": {
     "detailedState": "Scheduled",
     "matchup": "New York Yankees @ Tampa Bay Rays",
-    "last_checked": "2026-10-03T12:44:38.610236"
+    "last_checked": "2026-10-03T16:44:29.860822"
   },
   "849830": {
     "detailedState": "Scheduled",
     "matchup": "San Diego Padres @ Milwaukee Brewers",
-    "last_checked": "2026-10-03T12:44:38.610239"
+    "last_checked": "2026-10-03T16:44:29.860825"
   }
 }
