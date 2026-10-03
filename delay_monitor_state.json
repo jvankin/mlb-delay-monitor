@@ -5143,5 +5143,25 @@
     "detailedState": "Scheduled",
     "matchup": "Chicago Cubs @ San Diego Padres",
     "last_checked": "2026-10-01T00:30:02.342319"
+  },
+  "849829": {
+    "detailedState": "Scheduled",
+    "matchup": "Chicago White Sox @ Cleveland Guardians",
+    "last_checked": "2026-10-03T01:59:15.492792"
+  },
+  "849828": {
+    "detailedState": "Scheduled",
+    "matchup": "Atlanta Braves @ Los Angeles Dodgers",
+    "last_checked": "2026-10-03T01:59:15.492799"
+  },
+  "849835": {
+    "detailedState": "Scheduled",
+    "matchup": "New York Yankees @ Tampa Bay Rays",
+    "last_checked": "2026-10-03T01:59:15.492802"
+  },
+  "849830": {
+    "detailedState": "Scheduled",
+    "matchup": "San Diego Padres @ Milwaukee Brewers",
+    "last_checked": "2026-10-03T01:59:15.492804"
   }
 }
