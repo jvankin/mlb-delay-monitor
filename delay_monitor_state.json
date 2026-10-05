@@ -5173,5 +5173,15 @@
     "detailedState": "Pre-Game",
     "matchup": "Atlanta Braves @ Los Angeles Dodgers",
     "last_checked": "2026-10-04T22:36:00.542098"
+  },
+  "849834": {
+    "detailedState": "Scheduled",
+    "matchup": "Chicago White Sox @ Cleveland Guardians",
+    "last_checked": "2026-10-05T01:13:18.939127"
+  },
+  "849839": {
+    "detailedState": "Scheduled",
+    "matchup": "New York Yankees @ Tampa Bay Rays",
+    "last_checked": "2026-10-05T01:13:18.939140"
   }
 }
