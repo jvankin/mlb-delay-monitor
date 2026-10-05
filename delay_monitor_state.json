@@ -5175,13 +5175,13 @@
     "last_checked": "2026-10-04T22:36:00.542098"
   },
   "849834": {
-    "detailedState": "Scheduled",
+    "detailedState": "In Progress",
     "matchup": "Chicago White Sox @ Cleveland Guardians",
-    "last_checked": "2026-10-05T15:53:45.317078"
+    "last_checked": "2026-10-05T22:14:29.946774"
   },
   "849839": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "New York Yankees @ Tampa Bay Rays",
-    "last_checked": "2026-10-05T15:53:45.317090"
+    "last_checked": "2026-10-05T22:14:29.946789"
   }
 }
