@@ -5183,5 +5183,15 @@
     "detailedState": "Pre-Game",
     "matchup": "New York Yankees @ Tampa Bay Rays",
     "last_checked": "2026-10-05T22:14:29.946789"
+  },
+  "849819": {
+    "detailedState": "Scheduled",
+    "matchup": "Los Angeles Dodgers @ Atlanta Braves",
+    "last_checked": "2026-10-06T02:18:47.313571"
+  },
+  "849826": {
+    "detailedState": "Scheduled",
+    "matchup": "Milwaukee Brewers @ San Diego Padres",
+    "last_checked": "2026-10-06T02:18:47.313585"
   }
 }
