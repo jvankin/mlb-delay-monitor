@@ -5193,5 +5193,25 @@
     "detailedState": "Scheduled",
     "matchup": "Milwaukee Brewers @ San Diego Padres",
     "last_checked": "2026-10-06T20:38:10.289135"
+  },
+  "849833": {
+    "detailedState": "Scheduled",
+    "matchup": "Cleveland Guardians @ Chicago White Sox",
+    "last_checked": "2026-10-07T00:05:15.151634"
+  },
+  "849822": {
+    "detailedState": "Scheduled",
+    "matchup": "Los Angeles Dodgers @ Atlanta Braves",
+    "last_checked": "2026-10-07T00:05:15.151641"
+  },
+  "849838": {
+    "detailedState": "Scheduled",
+    "matchup": "Tampa Bay Rays @ New York Yankees",
+    "last_checked": "2026-10-07T00:05:15.151644"
+  },
+  "849827": {
+    "detailedState": "Scheduled",
+    "matchup": "Milwaukee Brewers @ San Diego Padres",
+    "last_checked": "2026-10-07T00:05:15.151646"
   }
 }
