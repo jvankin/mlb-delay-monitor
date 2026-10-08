@@ -5213,5 +5213,15 @@
     "detailedState": "Pre-Game",
     "matchup": "Milwaukee Brewers @ San Diego Padres",
     "last_checked": "2026-10-07T23:22:54.917102"
+  },
+  "849832": {
+    "detailedState": "Scheduled",
+    "matchup": "Cleveland Guardians @ Chicago White Sox",
+    "last_checked": "2026-10-08T02:46:53.086727"
+  },
+  "849837": {
+    "detailedState": "Scheduled",
+    "matchup": "Tampa Bay Rays @ New York Yankees",
+    "last_checked": "2026-10-08T02:46:53.086737"
   }
 }
