@@ -5223,5 +5223,10 @@
     "detailedState": "Scheduled",
     "matchup": "Tampa Bay Rays @ New York Yankees",
     "last_checked": "2026-10-08T02:46:53.086737"
+  },
+  "849831": {
+    "detailedState": "Scheduled",
+    "matchup": "Chicago White Sox @ Cleveland Guardians",
+    "last_checked": "2026-10-10T02:40:26.093456"
   }
 }
