@@ -5235,13 +5235,13 @@
     "last_checked": "2026-10-11T22:30:10.259389"
   },
   "849812": {
-    "detailedState": "Scheduled",
+    "detailedState": "In Progress",
     "matchup": "Los Angeles Dodgers @ Milwaukee Brewers",
-    "last_checked": "2026-10-12T17:10:39.979040"
+    "last_checked": "2026-10-12T23:37:30.836467"
   },
   "849820": {
-    "detailedState": "Scheduled",
+    "detailedState": "Pre-Game",
     "matchup": "Cleveland Guardians @ Tampa Bay Rays",
-    "last_checked": "2026-10-12T17:10:39.979051"
+    "last_checked": "2026-10-12T23:37:30.836474"
   }
 }
