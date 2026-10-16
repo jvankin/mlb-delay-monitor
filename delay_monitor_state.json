@@ -5263,5 +5263,15 @@
     "detailedState": "Pre-Game",
     "matchup": "Milwaukee Brewers @ Los Angeles Dodgers",
     "last_checked": "2026-10-15T22:31:26.722790"
+  },
+  "849817": {
+    "detailedState": "Scheduled",
+    "matchup": "Tampa Bay Rays @ Cleveland Guardians",
+    "last_checked": "2026-10-16T00:41:02.513709"
+  },
+  "849808": {
+    "detailedState": "Scheduled",
+    "matchup": "Milwaukee Brewers @ Los Angeles Dodgers",
+    "last_checked": "2026-10-16T00:41:02.513720"
   }
 }
